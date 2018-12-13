@@ -19,7 +19,7 @@ https://www.facebook.com/groups/seoulsmartcitydata/
 
 ## [참고자료] 스마트시티 서울 전략계획 수립 계획
 다음의 서울시 공식문서 참고하십시오 <br/>
-![alt text](https://opengov.seoul.go.kr/sanction/14847062 "Seoul Official Document")
+https://opengov.seoul.go.kr/sanction/14847062
 
 ## 서울스마트도시데이타 프로젝트는 무엇입니까?
 도시규모의 피트니스 트래커 만들기입니다. 마치 개인 피트니스 트래커를 통해 심박 등 우리가 직접 인지하지 못하는 몸의 여러 상태들을 살펴보는 것처럼, 
