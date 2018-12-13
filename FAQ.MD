@@ -114,5 +114,7 @@ https://arrayofthings.github.io/
  http://policy.nl.go.kr/cmmn/FileDown.do?atchFileId=217283&fileSn=58862
 2. Smart City 제1편. 시민주도 스마트시티의 도전과제, 한국정보화진흥원 <br/>
  https://www.4th-ir.go.kr/article/download/144 
-3. 4차 산업혁명 핵심  융합사례: 스마트시티 개념과 표준화 현황 <br/>
+3. 4차 산업혁명 핵심  융합사례: 스마트시티 개념과 표준화 현황,  <br/>
  https://www.tta.or.kr/data/reportDown.jsp?news_num=6019
+4. KB 지식 비타민: 똑똑한 도시, 스마트시티, KB금융지주 경영연구소 <br/>
+ https://www.kbfg.com/kbresearch/processFileDownloadManager.do?file_name=20180104105205_1.pdf
