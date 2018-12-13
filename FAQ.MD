@@ -8,7 +8,7 @@
 새로운 FAQ항목에 대한 요청, 건의는 아래의 수요조사 설문지를 이용하시거나, 
 https://docs.google.com/forms/d/e/1FAIpQLSdyx2H44w9dvDvXt-BKBplxNwIEXfLm4HHt_76E7jDEjpHMXA/viewform 
 
-github 우측 상단의 펜 아이콘 메뉴를 선택하고
+github 우측 상단의 펜 아이콘(![alt text](https://github.com/seoulsmartcitydata/project/blob/master/pen.JPG "pen") 메뉴를 선택하고
 직접 해당 내용을 수정후 하단부의 [Propose file change] 메뉴를 선택한후, 화면의 지시에 따라
 몇가지를 입력하고 최종적으로 [Create Pull Request] 메뉴를 선택하여 제출해 주시면 됩니다.
 
