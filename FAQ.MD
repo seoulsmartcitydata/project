@@ -8,8 +8,8 @@
 새로운 FAQ항목에 대한 요청, 건의는 아래의 수요조사 설문지를 이용하시거나, 
 https://docs.google.com/forms/d/e/1FAIpQLSdyx2H44w9dvDvXt-BKBplxNwIEXfLm4HHt_76E7jDEjpHMXA/viewform 
 
-github의 'Pull request'로 해주시면 됩니다. 특히, 수정요청은 github의 pull request 로 해주셔야 신속한
-처리가 보장됩니다.
+github 우측 상단의 펜 아이콘 메뉴를 선택하고
+직접 해당 내용을 수정후 하단부의 [Propose file change] 메뉴를 선택하여 제출해 주시면 됩니다.
 
 이 프로젝트의 관심 커뮤니티를 Facebook을 통해 운영하고 있으니 지속된 정보공유와 소통을 위해 가입을 부탁드립니다.
 https://www.facebook.com/groups/seoulsmartcitydata/
