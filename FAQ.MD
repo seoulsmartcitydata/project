@@ -1,9 +1,9 @@
 ![alt text](https://github.com/seoulsmartcitydata/project/blob/master/safety2.jpg "Men Working")
 ***-- 부분적 수정작업이 자주 진행됩니다.***
 
-아래의 내용들은 서울시의 공식 문서는 아닌, 이 프로젝트의 이반젤리스트  정리한 사항입니다. 
-최선의 정보를 수집하고자 노력하고 있지만, 늘 최신 정보를 반영하고 있도록 지속적인 작업을 할 것입니다만,
-큰틀에서 말하는 것 이외의 세부적 사항은 변경의 가능성이 항상 존재함에 유의하여 주십시오.
+아래의 내용들은 서울시의 공식 문서는 아닌, 이 프로젝트의 이반젤리스트로서  정리한 사항입니다. 
+최선의 정보를 수집하고자 노력하고 자주 업데이트 작업이 이루어질 것이라서,
+큰틀에서 말하는 것 이외의 세부적 사항은 변경될 것이다라고 가정하고 활용해 주십시오.
 
 새로운 FAQ항목에 대한 요청, 건의는 아래의 수요조사 설문지를 이용하시거나, 
 https://docs.google.com/forms/d/e/1FAIpQLSdyx2H44w9dvDvXt-BKBplxNwIEXfLm4HHt_76E7jDEjpHMXA/viewform 
