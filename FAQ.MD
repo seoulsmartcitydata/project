@@ -6,7 +6,7 @@
 큰틀에서 말하는 것 이외의 세부적 사항은 변경될 것이다라고 가정하고 활용해 주십시오.
 
 새로운 FAQ항목에 대한 요청, 건의는 아래의 수요조사 설문지를 이용하시거나, 
-https://docs.google.com/forms/d/e/1FAIpQLSdyx2H44w9dvDvXt-BKBplxNwIEXfLm4HHt_76E7jDEjpHMXA/viewform 
+https://goo.gl/forms/qa17RcOITPOaVg612
 
 github 우측 상단의 펜 아이콘(![alt text](https://github.com/seoulsmartcitydata/project/blob/master/pen.JPG "pen")) 메뉴를 선택하고
 직접 해당 내용을 수정후 하단부의 (![alt text](https://github.com/seoulsmartcitydata/project/blob/master/propose.JPG "propose file change")) 메뉴를 선택한후, 화면의 지시에 따라
