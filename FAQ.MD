@@ -118,3 +118,5 @@ https://arrayofthings.github.io/
  https://www.tta.or.kr/data/reportDown.jsp?news_num=6019
 4. KB 지식 비타민: 똑똑한 도시, 스마트시티, KB금융지주 경영연구소 <br/>
  https://www.kbfg.com/kbresearch/processFileDownloadManager.do?file_name=20180104105205_1.pdf
+5. 스마트시티의 개념과 정책동향, 융합연구정책센터
+ https://crpc.kist.re.kr/common/attachfile/attachfileDownload.do?attachNo=00003861 
