@@ -5,7 +5,7 @@
 최선의 정보를 수집하고자 노력하고 자주 업데이트 작업이 이루어질 것이라서,
 큰틀에서 말하는 것 이외의 세부적 사항은 변경될 것이다라고 가정하고 활용해 주십시오.
 
-새로운 FAQ항목에 대한 요청, 건의는 아래의 수요조사 설문지를 이용하시거나, 
+새로운 FAQ항목에 대한 요청, 건의는 아래의 수요조사 설문지를 이용하시거나, <br/>
 https://goo.gl/forms/qa17RcOITPOaVg612
 
 github 우측 상단의 펜 아이콘(![alt text](https://github.com/seoulsmartcitydata/project/blob/master/pen.JPG "pen")) 메뉴를 선택하고
