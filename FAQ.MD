@@ -120,3 +120,5 @@ https://arrayofthings.github.io/
  https://www.kbfg.com/kbresearch/processFileDownloadManager.do?file_name=20180104105205_1.pdf
 5. 스마트시티의 개념과 정책동향, 융합연구정책센터
  https://crpc.kist.re.kr/common/attachfile/attachfileDownload.do?attachNo=00003861 
+6. IoT 오픈 플랫폼 기반 스마트시티 분야 서비스 사례집, 정보통신기술진흥센터 <br/>
+ http://www.itfind.or.kr/admin/getFile.htm?identifier=02-004-181010-000009
