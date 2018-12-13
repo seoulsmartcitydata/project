@@ -1,5 +1,5 @@
-!(https://github.com/seoulsmartcitydata/project/blob/master/safety2.jpg)
-***Men Working -- 부분적 수정작업이 자주 진행됩니다.***
+![alt text](https://github.com/seoulsmartcitydata/project/blob/master/safety2.jpg "Men Working")
+***-- 부분적 수정작업이 자주 진행됩니다.***
 
 아래의 내용들은 서울시의 공식 문서는 아닌, 이 프로젝트의 이반젤리스트  정리한 사항입니다. 
 최선의 정보를 수집하고자 노력하고 있지만, 늘 최신 정보를 반영하고 있도록 지속적인 작업을 할 것입니다만,
