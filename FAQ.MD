@@ -107,3 +107,10 @@ https://opengov.seoul.go.kr/sanction/14847062
 시카고 AoT 프로젝트의 철학과 경험으로부터 유의미한 것들을 차용하고 서울에 맞게 확대 발전시켜나가고 있습니다.
 시카고의 Array of Things 프로젝트는 다음 링크에 자세한 정보가 있습니다. <br/>
 https://arrayofthings.github.io/ 
+
+
+## 스마트시티 관련한 참고자료 들입니다.
+Smart City 제1편. 시민주도 스마트시티의 도전과제, 한국정보화진흥원
+https://www.4th-ir.go.kr/article/download/144 
+4차 산업혁명 핵심  융합사례: 스마트시티 개념과 표준화 현황
+https://www.tta.or.kr/data/reportDown.jsp?news_num=6019
