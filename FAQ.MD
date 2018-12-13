@@ -110,7 +110,9 @@ https://arrayofthings.github.io/
 
 
 ## 스마트시티 관련한 참고자료 들입니다.
-1. Smart City 제1편. 시민주도 스마트시티의 도전과제, 한국정보화진흥원
-* https://www.4th-ir.go.kr/article/download/144 
-2. 4차 산업혁명 핵심  융합사례: 스마트시티 개념과 표준화 현황
-* https://www.tta.or.kr/data/reportDown.jsp?news_num=6019
+1. 도시혁신 및 미래성장동력 창출을 위한 스마트시티 추진전략, 대통령직속 4차산업혁명위원회 및 관계부처합동
+ http://policy.nl.go.kr/cmmn/FileDown.do?atchFileId=217283&fileSn=58862
+2. Smart City 제1편. 시민주도 스마트시티의 도전과제, 한국정보화진흥원 
+ https://www.4th-ir.go.kr/article/download/144 
+3. 4차 산업혁명 핵심  융합사례: 스마트시티 개념과 표준화 현황
+ https://www.tta.or.kr/data/reportDown.jsp?news_num=6019
