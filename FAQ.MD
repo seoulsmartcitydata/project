@@ -1,3 +1,4 @@
+!(https://github.com/seoulsmartcitydata/project/blob/master/safety2.jpg)
 ***Men Working -- 부분적 수정작업이 자주 진행됩니다.***
 
 아래의 내용들은 서울시의 공식 문서는 아닌, 이 프로젝트의 이반젤리스트  정리한 사항입니다. 
