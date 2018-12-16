@@ -15,8 +15,6 @@ github 우측 상단의 펜 아이콘(![alt text](https://github.com/seoulsmartc
 이 프로젝트의 관심 커뮤니티를 (![alt text](https://github.com/seoulsmartcitydata/project/blob/master/facebook.jpg "Facebook")을 통해 운영하고 있으니 지속된 정보공유와 소통을 위해 가입을 부탁드립니다.
 https://www.facebook.com/groups/seoulsmartcitydata/
 
-(주)데일리블록체인 서울 스마트도시데이타 정보전략프로젝트 팀
-
 ## [참고자료] 스마트시티 서울 전략계획 수립 계획
 다음의 서울시 공식문서 참고하십시오 <br/>
 https://opengov.seoul.go.kr/sanction/14847062
