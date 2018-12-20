@@ -15,9 +15,13 @@ github 우측 상단의 펜 아이콘(![alt text](https://github.com/seoulsmartc
 이 프로젝트의 관심 커뮤니티를 (![alt text](https://github.com/seoulsmartcitydata/project/blob/master/facebook.jpg "Facebook")을 통해 운영하고 있으니 지속된 정보공유와 소통을 위해 가입을 부탁드립니다.
 https://www.facebook.com/groups/seoulsmartcitydata/
 
-## [참고자료] 스마트시티 서울 전략계획 수립 계획
+## [참고자료] 스마트시티 서울 전략계획 수립 계획과 관련 신문기사
 서울 스마트시티데이타 프로젝트의 정책적 기반이 되는 서울시 공식 문서입니다. <br/>
 https://opengov.seoul.go.kr/sanction/14847062
+
+서울시, 2022년까지 IoT센서 5만개 설치 …'스마트서울'로 거듭난다 <br/>
+생활밀착형 IoT 센서 인프라 구축해 스마트시티로 도약…미세먼지, 온·습도, 풍향풍속, 소음, 빛, 진동 등 다양한 데이터 수집
+http://news.mt.co.kr/mtview.php?no=2018110609182729052&fbclid=IwAR31wblmisfelQayB1V3OPI1OjWbhPZT49QKBJUaBe4iopGbJvFcyPfP_wM 
 
 ## 서울스마트도시데이타 프로젝트는 무엇입니까?
 도시규모의 피트니스 트래커 만들기입니다. 마치 개인 피트니스 트래커를 통해 심박 등 우리가 직접 인지하지 못하는 몸의 여러 상태들을 살펴보는 것처럼,
